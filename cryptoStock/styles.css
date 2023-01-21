@@ -1,0 +1,41 @@
+
+body {
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>💲</text></svg>") 16 0,auto;
+}
+ /* .tree-beard {
+    background-image:url(https://i.pinimg.com/originals/56/92/a6/5692a6ad885acf2b870911694ad1b010.gif); background-size: cover;
+} */
+.tree-beard {
+    height: 500px;
+    width: 100%;
+    margin-top: 0px;
+    background-image: url("https://i.pinimg.com/originals/56/92/a6/5692a6ad885acf2b870911694ad1b010.gif");
+    background-size: cover;
+    background-position: center;
+  }
+  span {
+    content: "\0024";
+  }
+  .head-space {
+    position: fixed;
+    background-color: rgb(107, 142, 177);
+    padding: 10px;
+  }
+
+  .stumpy {
+    height: 300px;
+    width: 100%;
+    background-image: url("https://bestanimations.com/media/sky/2018762848pink-beautiful-sky-gif.gif");
+    background-size: cover;
+    background-position: center;
+    border-top: 5px solid rgb(100, 97, 97);
+    border-bottom: 5px solid rgb(15, 14, 14);
+}
+.footer {
+    background-color: rgb(70, 132, 163);
+    padding: 10px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:aliceblue
+}
