@@ -12,11 +12,9 @@ design html and css
 run the logic in the back end
 then connect it.
 
-half the page for stock half for crypto
-make a wire frame
-decide on a front end frame work to see whats offered to us
-css will need specific design aspects if we want to override it. 
+half the page for stock / half for crypto
+ 
 
 draw out a few concepts and then pick a framework
 
-todo materialize cards, look up fetch renders; filters array with then function by variable list min-max/date. then a query selector gets a specific div. generate card in a div min/max etc. read more materialize. check scopes. 
+todo materialize cards, look up fetch renders; filters array with then function by variable list min-max/date. then a query selector gets a specific div. generate card in a div min/max etc.

@@ -6,9 +6,7 @@ body {
 main {
     background: linear-gradient( rgb(106, 71, 167),rgb(1, 71, 137));
 }
- /* .tree-beard {
-    background-image:url(https://i.pinimg.com/originals/56/92/a6/5692a6ad885acf2b870911694ad1b010.gif); background-size: cover;
-} */
+
 .tree-beard {
     height: 500px;
     width: 100%;
