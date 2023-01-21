@@ -27,7 +27,12 @@ main {
     background-color: rgb(107, 142, 177);
     padding: 10px;
   }
-
+  .riley {
+    width: 90px;
+    position: absolute;
+    right: 40%;
+    top: 80%;
+  }
   .stumpy {
     height: 300px;
     width: 100%;
