@@ -5,16 +5,11 @@ As a user I want to log into a stock exchange and pull the data informing us abo
 ### Acceptance Criterion
 The app loads current stock options. The user can search specific companies and view how much their stocks are priced at for both selling and buying.
 
-front end look up materialize
-
 tasks
 design html and css
 run the logic in the back end
 then connect it.
 
 half the page for stock / half for crypto
- 
-
-draw out a few concepts and then pick a framework
 
 todo materialize cards, look up fetch renders; filters array with then function by variable list min-max/date. then a query selector gets a specific div. generate card in a div min/max etc.
